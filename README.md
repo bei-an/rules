@@ -58,6 +58,7 @@
 
 ## Spotify歌词翻译
 > https://raw.githubusercontent.com/app2smile/rules/master/js/spotify-lyric.js
+
 https://github.com/bei-an/rules/blob/master/js/spotify-lyric.js
 
 ## 哔哩哔哩
